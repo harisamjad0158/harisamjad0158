@@ -25,11 +25,11 @@ Cloud Solution Architect & DevOps Engineer with hands-on experience designing, a
 
 ### **Containers & Orchestration**
 - Docker, Docker Compose  
-- Kubernetes (EKS), Helm, Istio  
+- Kubernetes (EKS, AKS), Helm, Istio  
 - Horizontal Pod Autoscaling, ConfigMaps, Secrets  
 
 ### **CI/CD & Automation**
-- GitLab CI/CD, Jenkins  
+- GitLab CI/CD, Jenkins, GitHub Actions  
 - Automated build → test → push → deploy pipelines  
 - Artifact management with JFrog Artifactory  
 - Automated deployments to EC2, Kubernetes, serverless  
@@ -176,6 +176,71 @@ A shell script that:
 
 ---
 
+## 🔹 **Azure Projects**
+
+### **10. Azure Infrastructure Deployment & Automation**
+Designed and deployed a scalable Azure environment using:
+- Azure VMs, Storage Accounts, VNets, NSGs  
+- Azure Load Balancer  
+- Azure Monitor & Log Analytics  
+
+**Key Work:**
+- Automated provisioning using Terraform  
+- Configured Azure DevOps Pipelines for CI/CD  
+- Implemented Azure Key Vault for secrets  
+- Built monitoring dashboards and alerts  
+
+---
+
+### **11. Azure Kubernetes Service (AKS) Deployment**
+Built a containerized microservices architecture on AKS.
+
+**Highlights:**
+- Deployed Dockerized apps to AKS  
+- Configured Ingress Controller  
+- Implemented HPA for autoscaling  
+- Integrated ACR for image management  
+- Automated deployments using GitHub Actions  
+
+---
+
+## 🔹 **University Projects (Embedded Systems)**
+
+### **12. Smart IoT Monitoring System**
+Developed using ESP32, MQTT, Node-RED, InfluxDB, Grafana.
+
+**Features:**
+- Real-time sensor data collection  
+- MQTT communication  
+- Time-series storage in InfluxDB  
+- Grafana dashboards  
+- Power-optimized embedded design  
+
+---
+
+### **13. FPGA-Based Digital System**
+Designed using VHDL on Xilinx FPGA.
+
+**Work Included:**
+- FSM design  
+- Digital counters, timers, multiplexers  
+- Simulation in ModelSim  
+- Hardware deployment on FPGA  
+
+---
+
+### **14. Real-Time Embedded Application (ARM Cortex-M)**
+Built using FreeRTOS and embedded C.
+
+**Key Components:**
+- Task scheduling  
+- Interrupt handling  
+- UART communication  
+- Sensor interfacing  
+- Low-level driver development  
+
+---
+
 ## 🔹 **Certifications**
 - AWS Certified Solutions Architect – Associate (2025)  
 - Python Essentials – Cisco Networking Academy (2022)  
@@ -192,5 +257,4 @@ A shell script that:
 
 - **LinkedIn:** https://linkedin.com/in/harisamjad-devops  
 - **GitHub:** https://github.com/harisamjad0158  
-- **Email:** haris.amjad@hotmail.com  
-
+- **Email:** haris.amjad@hotmail.com
